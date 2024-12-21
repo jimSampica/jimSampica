@@ -4,6 +4,8 @@ This is my collection of unfinished projects, half-baked ideas, and tinkerings.
 
 Currently working on whatever comes to mind.
 
+Find out where else I am @ jimsampica.dev
+
 <!--
 **jamesSampica/jamesSampica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
