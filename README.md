@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is my collection of unfinished projects, half-baked ideas, and random tinkerings.
+This is my collection of projects, tinkerings, and half-baked ideas.
 
 Currently working on whatever comes to mind.
 
